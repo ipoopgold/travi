@@ -1,0 +1,70 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+Nouveau projet
+	+
+		-Dossier 6
+		..\pspad\Documents-Activité-Web\index.html
+	+Dossier 
+		-
+[Open project files]
+0=INDEX.html
+1=CSS.css
+2=HAUT.html
+3=MILIEU.html
+4=BAS.html
+5=HTML.html
+6=Albums.html
+7=Biographie.html
+8=Featurings.html
+9=Culture.html
+10=CSS1.css
+[Selected Project Files]
+Main=
+Selected=Albums.html
+[INDEX.html]
+TopLine=1
+Caret=23,20
+[CSS.css]
+TopLine=112
+Caret=3,131
+[HAUT.html]
+TopLine=1
+Caret=20,11
+[MILIEU.html]
+TopLine=5
+Caret=9,16
+[BAS.html]
+TopLine=1
+Caret=11,10
+[HTML.html]
+TopLine=1
+Caret=5,20
+[Albums.html]
+TopLine=179
+Caret=23,8
+[Biographie.html]
+TopLine=50
+Caret=114,53
+[Featurings.html]
+TopLine=1
+Caret=82,10
+[Culture.html]
+TopLine=61
+Caret=94,68
+[CSS1.css]
+TopLine=2
+Caret=24,34
